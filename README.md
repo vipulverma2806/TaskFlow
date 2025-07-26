@@ -55,7 +55,7 @@
 ![Task Management Dashboard](./frontend/public/screenshots/Completed.png)
 
 ### Pending Task
-![Task Management Dashboard](./frontend/public/screenshots/pending task.png)
+![Task Management Dashboard](./frontend/public/screenshots/pending Task.png)
 
 ### Profile setting
 ![Task Management Dashboard](./frontend/public/screenshots/Account Setting.png)
