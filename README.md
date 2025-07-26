@@ -43,13 +43,19 @@
 ## Screenshots
 
 ### User Registration
-![User Registration](./Frontend/public/screenshots/Register.png)
+![User Registration](./frontend/public/screenshots/Register.png)
 
 ### User Login
-![User Login](./Frontend/public/screenshots/Login.png)
+![User Login](./frontend/public/screenshots/Login.png)
 
 ### User Personal Dashboard
-![User Personal Dashboard](./Frontend/public/screenshots/PDash.png)
+![User Personal Dashboard](./frontend/public/screenshots/Dashboard.png)
 
-### Task Management Dashboard
-![Task Management Dashboard](./Frontend/public/screenshots/feed.png)
+### Completed Task
+![Task Management Dashboard](./frontend/public/screenshots/Completed.png)
+
+### Pending Task
+![Task Management Dashboard](./frontend/public/screenshots/pending task.png)
+
+### Profile setting
+![Task Management Dashboard](./frontend/public/screenshots/Account Setting.png)
